@@ -1,0 +1,19 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>sortlab</title>
+<style>
+  body { max-width: 720px; margin: 40px auto; font-family: system-ui, sans-serif; text-align: center; }
+  canvas { border: 1px solid #ddd; margin-top: 16px; }
+  select, button { font-size: 15px; padding: 6px 14px; margin: 0 4px; }
+</style>
+<h1>sortlab</h1>
+<select id="algo">
+  <option value="bubble">bubble sort</option>
+  <option value="insertion">insertion sort</option>
+  <option value="selection">selection sort</option>
+</select>
+<button id="shuffle">shuffle</button>
+<button id="sort">sort</button>
+<br>
+<canvas id="bars" width="700" height="300"></canvas>
+<script src="sort.js"></script>
