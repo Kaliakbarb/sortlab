@@ -4,3 +4,4 @@
 - polish edge case handling
 - refine config handling
 - adjust validation
+- tighten validation
