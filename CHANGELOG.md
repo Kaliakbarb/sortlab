@@ -11,3 +11,4 @@
 - improve help text
 - clean up error handling
 - tweak input parsing
+- rework state handling
