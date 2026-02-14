@@ -9,3 +9,4 @@
 - refine validation
 - refine edge case handling
 - improve help text
+- clean up error handling
