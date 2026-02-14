@@ -10,3 +10,4 @@
 - refine edge case handling
 - improve help text
 - clean up error handling
+- tweak input parsing
