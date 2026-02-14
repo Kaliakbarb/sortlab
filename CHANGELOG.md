@@ -6,3 +6,4 @@
 - adjust validation
 - tighten validation
 - tweak config handling
+- refine validation
