@@ -7,3 +7,4 @@
 - tighten validation
 - tweak config handling
 - refine validation
+- refine edge case handling
