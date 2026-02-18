@@ -15,3 +15,4 @@
 - rework startup flow
 - adjust docs wording
 - fix help text
+- polish main loop
