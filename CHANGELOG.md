@@ -13,3 +13,4 @@
 - tweak input parsing
 - rework state handling
 - rework startup flow
+- adjust docs wording
