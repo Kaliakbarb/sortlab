@@ -6,3 +6,4 @@
 - should test this on windows at some point
 - tried an alternative layout, kept the simple one
 - profiled the slow path, most of the time is IO
+- sketched v2 of the interface on paper
