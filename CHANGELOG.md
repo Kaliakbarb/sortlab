@@ -14,3 +14,4 @@
 - rework state handling
 - rework startup flow
 - adjust docs wording
+- fix help text
