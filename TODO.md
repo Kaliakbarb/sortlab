@@ -9,3 +9,4 @@
 - [ ] support a config file
 - [ ] refactor into modules
 - [ ] publish a small demo
+- [ ] dark mode
