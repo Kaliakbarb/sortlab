@@ -17,3 +17,4 @@
 - fix help text
 - polish main loop
 - tweak state handling
+- improve config handling
