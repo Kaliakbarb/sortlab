@@ -21,3 +21,4 @@
 - tighten main loop
 - adjust main loop
 - fix validation
+- tighten error handling
