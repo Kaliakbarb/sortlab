@@ -19,3 +19,4 @@
 - tweak state handling
 - improve config handling
 - tighten main loop
+- adjust main loop
