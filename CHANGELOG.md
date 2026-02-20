@@ -20,3 +20,4 @@
 - improve config handling
 - tighten main loop
 - adjust main loop
+- fix validation
