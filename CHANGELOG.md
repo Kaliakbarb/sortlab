@@ -18,3 +18,4 @@
 - polish main loop
 - tweak state handling
 - improve config handling
+- tighten main loop
