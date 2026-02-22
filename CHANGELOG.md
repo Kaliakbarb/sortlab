@@ -22,3 +22,4 @@
 - adjust main loop
 - fix validation
 - tighten error handling
+- fix naming
