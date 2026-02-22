@@ -23,3 +23,4 @@
 - fix validation
 - tighten error handling
 - fix naming
+- refine startup flow
