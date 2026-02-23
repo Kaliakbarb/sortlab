@@ -24,3 +24,4 @@
 - tighten error handling
 - fix naming
 - refine startup flow
+- simplify naming
