@@ -27,3 +27,4 @@
 - simplify naming
 - refine input parsing
 - simplify help text
+- clean up validation
