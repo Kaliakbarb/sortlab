@@ -28,3 +28,4 @@
 - refine input parsing
 - simplify help text
 - clean up validation
+- fix docs wording
