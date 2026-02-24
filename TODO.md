@@ -16,3 +16,4 @@
 - [ ] add tests
 - [ ] package it properly
 - [ ] keyboard shortcuts
+- [ ] performance pass
