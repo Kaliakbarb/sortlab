@@ -26,3 +26,4 @@
 - refine startup flow
 - simplify naming
 - refine input parsing
+- simplify help text
