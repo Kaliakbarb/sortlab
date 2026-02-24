@@ -15,3 +15,4 @@
 - [ ] add examples to the readme
 - [ ] add tests
 - [ ] package it properly
+- [ ] keyboard shortcuts
