@@ -21,3 +21,4 @@
 - [ ] better error messages
 - [ ] add a CI workflow
 - [ ] support a config file
+- [ ] refactor into modules
