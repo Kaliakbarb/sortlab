@@ -30,3 +30,4 @@
 - clean up validation
 - fix docs wording
 - refine naming
+- clean up main loop
