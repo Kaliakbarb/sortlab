@@ -31,3 +31,4 @@
 - fix docs wording
 - refine naming
 - clean up main loop
+- adjust config handling
