@@ -32,3 +32,4 @@
 - refine naming
 - clean up main loop
 - adjust config handling
+- fix output formatting
