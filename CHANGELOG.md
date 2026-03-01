@@ -35,3 +35,4 @@
 - fix output formatting
 - simplify docs wording
 - simplify edge case handling
+- improve validation
