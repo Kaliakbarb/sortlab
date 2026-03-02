@@ -36,3 +36,4 @@
 - simplify docs wording
 - simplify edge case handling
 - improve validation
+- polish docs wording
