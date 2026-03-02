@@ -37,3 +37,4 @@
 - simplify edge case handling
 - improve validation
 - polish docs wording
+- refine help text
