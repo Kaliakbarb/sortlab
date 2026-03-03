@@ -38,3 +38,4 @@
 - improve validation
 - polish docs wording
 - refine help text
+- tweak output formatting
