@@ -39,3 +39,4 @@
 - polish docs wording
 - refine help text
 - tweak output formatting
+- rework help text
