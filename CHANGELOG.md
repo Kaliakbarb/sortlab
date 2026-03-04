@@ -42,3 +42,4 @@
 - rework help text
 - improve startup flow
 - adjust output formatting
+- refine main loop
