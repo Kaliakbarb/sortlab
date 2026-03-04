@@ -41,3 +41,4 @@
 - tweak output formatting
 - rework help text
 - improve startup flow
+- adjust output formatting
