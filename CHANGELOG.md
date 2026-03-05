@@ -45,3 +45,4 @@
 - refine main loop
 - tighten state handling
 - fix input parsing
+- adjust startup flow
