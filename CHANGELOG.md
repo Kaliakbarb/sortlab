@@ -44,3 +44,4 @@
 - adjust output formatting
 - refine main loop
 - tighten state handling
+- fix input parsing
