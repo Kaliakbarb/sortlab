@@ -46,3 +46,4 @@
 - tighten state handling
 - fix input parsing
 - adjust startup flow
+- refine output formatting
