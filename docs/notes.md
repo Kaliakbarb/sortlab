@@ -18,3 +18,4 @@
 - profiled the slow path, most of the time is IO
 - sketched v2 of the interface on paper
 - found a nicer color palette, may switch later
+- wrote down ideas from a blog post I read today
