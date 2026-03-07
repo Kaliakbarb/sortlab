@@ -50,3 +50,4 @@
 - tweak edge case handling
 - tweak naming
 - adjust naming
+- rework docs wording
