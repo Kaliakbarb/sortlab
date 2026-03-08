@@ -53,3 +53,4 @@
 - rework docs wording
 - improve naming
 - refine docs wording
+- simplify output formatting
