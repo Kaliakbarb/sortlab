@@ -51,3 +51,4 @@
 - tweak naming
 - adjust naming
 - rework docs wording
+- improve naming
