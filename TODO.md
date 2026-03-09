@@ -39,3 +39,4 @@
 - [ ] publish a small demo
 - [ ] dark mode
 - [ ] handle unicode input
+- [ ] add colors to output
