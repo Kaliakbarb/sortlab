@@ -40,3 +40,4 @@
 - [ ] dark mode
 - [ ] handle unicode input
 - [ ] add colors to output
+- [ ] add examples to the readme
