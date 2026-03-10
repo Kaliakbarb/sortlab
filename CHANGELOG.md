@@ -55,3 +55,4 @@
 - refine docs wording
 - simplify output formatting
 - tighten help text
+- rework validation
