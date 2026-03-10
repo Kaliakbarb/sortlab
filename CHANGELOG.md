@@ -56,3 +56,4 @@
 - simplify output formatting
 - tighten help text
 - rework validation
+- polish naming
